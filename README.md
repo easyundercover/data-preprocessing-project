@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+Análisis exploratorio de datos de Airbnb en Nueva York para el año 2019. 
